@@ -2,7 +2,7 @@
 - From Guntur, Pursuing B.Tech Final year in Vignan's University, Guntur
 - 👀 I’m interested in coding and IoT projects
 - 🌱 I’m currently learning python, HMTL, DBMS and IoT projects
-- 💞️ I’m looking to collaborate on IT MNCs
+- 💞️ I’m looking to collaborate on IT MNCs, Embedded project Companies and VLSI Companies
 - I was deeply interested in VLSI,Cadence, Xilinx, VHDL, Verilog
 - Looking for intership in Embedded Projects and VLSI
 - 📫 reach me via mail: mvsharikrishna@gmail.com
