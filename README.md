@@ -1,10 +1,11 @@
-- 👋 Hi, I’m Hari Krishna Maddi
-- From Guntur, Pursuing B.Tech Final year in Vignan's University, Guntur
+- 👋 Hi, I’m Venkata Sai Hari Krishna Maddi
+- From Guntur, Andhra Pradesh
+- Currently intern trainee at Insemi Technologies Pvt Ltd
+- Graduate in stream of Electronics and Communication Engineering from Vignan's Foundation for Science Technology and Research, Guntur
+- 🌱 I learnt Advanced Digital Electronics, Verilog, System Verilog, C etc.,
 - 👀 I’m interested in coding and IoT projects
-- 🌱 I’m currently learning python, HMTL, DBMS and IoT projects
-- 💞️ I’m looking to collaborate on IT MNCs, Embedded project Companies and VLSI Companies
-- I was deeply interested in VLSI,Cadence, Xilinx, VHDL, Verilog
-- Looking for intership in Embedded Projects and VLSI
+- 💞️ I was deeply interested in VLSI,Cadence, Xilinx, VHDL, Verilog
+
 - 📫 reach me via mail: mvsharikrishna@gmail.com
 
 <!---
